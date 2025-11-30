@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+sqlalchemy
+alembic
+qdrant-client
+numpy==1.26.4
+opencv-python
+anyio
+starlette
+sentence-transformers
+torch
+transformers
+langgraph
+openai-whisper
+

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Chest Pain - Basic Workup",
+    "text": "For adults with non-traumatic chest pain and suspected cardiac origin, consider ECG, CBC, lipid profile, and cardiac enzymes if red-flag symptoms are present. Always correlate with clinical judgement.",
+    "tags": ["chest pain", "cardiac", "cbc", "ecg", "basic tests"]
+  },
+  {
+    "id": 2,
+    "title": "Fever - Initial Evaluation",
+    "text": "For fever without localizing symptoms, initial workup may include CBC, urine analysis, and basic metabolic panel. Tailor further tests based on history and examination.",
+    "tags": ["fever", "cbc", "urine test"]
+  },
+  {
+    "id": 3,
+    "title": "Diabetes Follow-up",
+    "text": "In stable type 2 diabetes follow-up visits, consider HbA1c every 3 months, fasting plasma glucose, and lipid profile annually.",
+    "tags": ["diabetes", "hbA1c", "follow-up"]
+  }
+]

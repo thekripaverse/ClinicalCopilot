@@ -1,0 +1,145 @@
+[
+  {
+    "order_id": "RX-1764242966",
+    "timestamp_utc": "2025-11-27T16:59:26.357473Z",
+    "status": "queued_demo",
+    "patient_id": "P017",
+    "prescription": "Provisional prescription for unspecified symptoms.\nNote summary: good morning doctor I've been feeling tired for the past week good morning do you have headache for fever just weakness and less appetite blood test don't worry we'll find the cause thank you doctor...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.",
+    "emr_record_id": "EMR_APPROVED_00032",
+    "suggested_tests": [
+      "CBC with Differential",
+      "C-Reactive Protein (CRP)",
+      "ESR",
+      "Dengue NS1 / IgM",
+      "Malaria Smear / Rapid Test",
+      "Blood Culture",
+      "Urine Routine and Microscopy",
+      "Procalcitonin",
+      "MRI Brain (as indicated)",
+      "CT Brain (Non-contrast, if emergency)",
+      "CBC",
+      "Serum Electrolytes"
+    ],
+    "symptoms": [
+      "fever",
+      "headache"
+    ]
+  },
+  {
+    "order_id": "RX-1764243644",
+    "timestamp_utc": "2025-11-27T17:10:44.084584Z",
+    "status": "queued_demo",
+    "patient_id": "P027",
+    "prescription": "Provisional prescription for unspecified symptoms.\nNote summary: doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.",
+    "emr_record_id": "EMR_APPROVED_00034",
+    "suggested_tests": [
+      "CBC",
+      "Liver Function Test (LFT)",
+      "Serum Amylase",
+      "Serum Lipase",
+      "Ultrasound Abdomen",
+      "Stool Routine and Occult Blood"
+    ],
+    "symptoms": [
+      "abdominal pain"
+    ]
+  },
+  {
+    "order_id": "RX-1764289390",
+    "timestamp_utc": "2025-11-28T05:53:10.952506Z",
+    "status": "queued_demo",
+    "patient_id": "P002",
+    "prescription": "Provisional prescription for unspecified symptoms.\nNote summary: I have severe cough fever And I'm not able to talk properly I have sore throat please give me some effort...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.",
+    "emr_record_id": "EMR_APPROVED_00036",
+    "suggested_tests": [
+      "CBC with Differential",
+      "C-Reactive Protein (CRP)",
+      "ESR",
+      "Dengue NS1 / IgM",
+      "Malaria Smear / Rapid Test",
+      "Blood Culture",
+      "Urine Routine and Microscopy",
+      "Procalcitonin",
+      "Chest X-Ray (PA view)",
+      "CRP",
+      "Sputum Culture and Sensitivity",
+      "COVID-19 RT-PCR",
+      "Sputum AFB (for Tuberculosis)"
+    ],
+    "symptoms": [
+      "fever",
+      "cough"
+    ]
+  },
+  {
+    "order_id": "RX-1764313495",
+    "timestamp_utc": "2025-11-28T12:34:55.274478Z",
+    "status": "queued_demo",
+    "patient_id": "P001",
+    "prescription": "Provisional prescription for unspecified symptoms.\nNote summary: doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.",
+    "emr_record_id": "ENC-1764313486",
+    "suggested_tests": [
+      "Stool Routine and Occult Blood"
+    ],
+    "symptoms": [
+      "abdominal pain"
+    ]
+  },
+  {
+    "order_id": "RX-1764313817",
+    "timestamp_utc": "2025-11-28T12:40:17.365711Z",
+    "status": "queued_demo",
+    "patient_id": "P001",
+    "prescription": "Provisional prescription for unspecified symptoms.\nNote summary: doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.",
+    "emr_record_id": "ENC-1764313814",
+    "suggested_tests": [
+      "Stool Routine and Occult Blood"
+    ],
+    "symptoms": [
+      "abdominal pain"
+    ]
+  },
+  {
+    "order_id": "RX-1764313985",
+    "timestamp_utc": "2025-11-28T12:43:05.907370Z",
+    "status": "queued_demo",
+    "patient_id": "P001",
+    "prescription": "Provisional prescription for unspecified symptoms.\nNote summary: doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you Hello Hello I have ...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.",
+    "emr_record_id": "ENC-1764313984",
+    "suggested_tests": [
+      "Serum Amylase",
+      "Serum Lipase",
+      "Ultrasound Abdomen",
+      "Stool Routine and Occult Blood"
+    ],
+    "symptoms": [
+      "abdominal pain"
+    ]
+  },
+  {
+    "order_id": "RX-1764368578",
+    "timestamp_utc": "2025-11-29T03:52:58.627407Z",
+    "status": "queued_demo",
+    "patient_id": "P006",
+    "prescription": "Provisional prescription for unspecified symptoms.\nNote summary: good morning doctor I've been feeling tired for the past week good morning do you have headache for fever just weakness and less appetite blood test don't worry we'll find the cause thank you doctor...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.",
+    "emr_record_id": "ENC-1764368569",
+    "suggested_tests": [
+      "CBC with Differential",
+      "C-Reactive Protein (CRP)",
+      "ESR",
+      "Dengue NS1 / IgM",
+      "Malaria Smear / Rapid Test",
+      "Blood Culture",
+      "Urine Routine and Microscopy",
+      "Procalcitonin",
+      "MRI Brain (as indicated)",
+      "CT Brain (Non-contrast, if emergency)",
+      "CBC",
+      "Serum Electrolytes"
+    ],
+    "symptoms": [
+      "fever",
+      "headache"
+    ]
+  }
+]

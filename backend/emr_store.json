@@ -1,0 +1,908 @@
+[
+  {
+    "emr_record_id": "EMR-1764217995",
+    "timestamp_utc": "2025-11-27T10:03:15.995370Z",
+    "patient_id": "P_LISTEN_001",
+    "note_summary": "Hello doctor I am not feeling very well right now I have mild fever can you suggest me some medications so that I can take I also have stomach pain also So please suggest Tablets for it",
+    "symptoms": [
+      "fever"
+    ],
+    "suggested_tests": [],
+    "draft_prescription": "Provisional prescription for unspecified symptoms.\nNote summary: Hello doctor I am not feeling very well right now I have mild fever can you suggest me some medications so that I can take I also have stomach pain also So please suggest Tablets for it...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.\n",
+    "safety_flags": []
+  },
+  {
+    "emr_record_id": "EMR-1764219559",
+    "timestamp_utc": "2025-11-27T10:29:19.067863Z",
+    "patient_id": "P_ID_005",
+    "note_summary": "good morning doctor I've been feeling tired for the past week good morning do you have headache for fever just weakness and less appetite blood test don't worry we'll find the cause thank you doctor",
+    "symptoms": [
+      "fever",
+      "headache"
+    ],
+    "suggested_tests": [],
+    "draft_prescription": "Provisional prescription for unspecified symptoms.\nNote summary: good morning doctor I've been feeling tired for the past week good morning do you have headache for fever just weakness and less appetite blood test don't worry we'll find the cause thank you doctor...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.\n",
+    "safety_flags": []
+  },
+  {
+    "emr_record_id": "EMR-1764219779",
+    "timestamp_utc": "2025-11-27T10:32:59.100298Z",
+    "patient_id": "P_ID_005",
+    "note_summary": "good morning doctor I've been feeling tired for the past week good morning do you have headache for fever just weakness and less appetite blood test don't worry we'll find the cause thank you doctor",
+    "symptoms": [
+      "fever",
+      "headache"
+    ],
+    "suggested_tests": [
+      "CBC with Differential",
+      "C-Reactive Protein (CRP)",
+      "ESR",
+      "Dengue NS1 / IgM",
+      "Malaria Smear / Rapid Test",
+      "Blood Culture",
+      "Urine Routine and Microscopy",
+      "Procalcitonin",
+      "MRI Brain (as indicated)",
+      "CT Brain (Non-contrast, if emergency)",
+      "CBC",
+      "Serum Electrolytes"
+    ],
+    "draft_prescription": "Provisional prescription for unspecified symptoms.\nNote summary: good morning doctor I've been feeling tired for the past week good morning do you have headache for fever just weakness and less appetite blood test don't worry we'll find the cause thank you doctor...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.\n",
+    "safety_flags": []
+  },
+  {
+    "emr_record_id": "EMR-1764233797",
+    "timestamp_utc": "2025-11-27T14:26:37.048133Z",
+    "patient_id": "P001",
+    "note_summary": "Hi doctor And I have a fever for a long time",
+    "symptoms": [
+      "fever"
+    ],
+    "suggested_tests": [
+      "CBC with Differential",
+      "C-Reactive Protein (CRP)",
+      "ESR",
+      "Dengue NS1 / IgM",
+      "Malaria Smear / Rapid Test",
+      "Blood Culture",
+      "Urine Routine and Microscopy",
+      "Procalcitonin"
+    ],
+    "draft_prescription": "Provisional prescription for unspecified symptoms.\nNote summary: Hi doctor And I have a fever for a long time...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.\n",
+    "safety_flags": []
+  },
+  {
+    "emr_record_id": "EMR-1764235510",
+    "timestamp_utc": "2025-11-27T14:55:10.027028Z",
+    "patient_id": "P001",
+    "note_summary": "doctor I been feeling tired for the past week how long has it been almost three days you might have a viral infection how prescribed medicines and steam inhalation ok doctor will it get better soon yes usually within three to four days thank you doctor",
+    "symptoms": [],
+    "suggested_tests": [],
+    "draft_prescription": "Provisional prescription for unspecified symptoms.\nNote summary: doctor I been feeling tired for the past week how long has it been almost three days you might have a viral infection how prescribed medicines and steam inhalation ok doctor will it get better soon ye...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.\n",
+    "safety_flags": []
+  },
+  {
+    "emr_record_id": "EMR-1764235514",
+    "timestamp_utc": "2025-11-27T14:55:14.820292Z",
+    "patient_id": "P001",
+    "note_summary": "doctor I been feeling tired for the past week how long has it been almost three days you might have a viral infection how prescribed medicines and steam inhalation ok doctor will it get better soon yes usually within three to four days thank you doctor",
+    "symptoms": [],
+    "suggested_tests": [],
+    "draft_prescription": "Provisional prescription for unspecified symptoms.\nNote summary: doctor I been feeling tired for the past week how long has it been almost three days you might have a viral infection how prescribed medicines and steam inhalation ok doctor will it get better soon ye...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.\n",
+    "safety_flags": []
+  },
+  {
+    "emr_record_id": "EMR-1764238940",
+    "timestamp_utc": "2025-11-27T15:52:20.330191Z",
+    "patient_id": "P001",
+    "note_summary": "good morning doctor I've been feeling tired for the past week good morning do you have headache for fever just weakness and less appetite blood test don't worry we'll find the cause thank you doctor",
+    "symptoms": [
+      "fever",
+      "headache"
+    ],
+    "suggested_tests": [
+      "CBC with Differential",
+      "C-Reactive Protein (CRP)",
+      "ESR",
+      "Dengue NS1 / IgM",
+      "Malaria Smear / Rapid Test",
+      "Blood Culture",
+      "Urine Routine and Microscopy",
+      "Procalcitonin",
+      "MRI Brain (as indicated)",
+      "CT Brain (Non-contrast, if emergency)",
+      "CBC",
+      "Serum Electrolytes"
+    ],
+    "draft_prescription": "Provisional prescription for unspecified symptoms.\nNote summary: good morning doctor I've been feeling tired for the past week good morning do you have headache for fever just weakness and less appetite blood test don't worry we'll find the cause thank you doctor...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.\n",
+    "safety_flags": []
+  },
+  {
+    "emr_record_id": "EMR-1764239579",
+    "timestamp_utc": "2025-11-27T16:02:59.826846Z",
+    "patient_id": "P001",
+    "note_summary": "STT could not understand the audio clearly.",
+    "symptoms": [],
+    "suggested_tests": [],
+    "draft_prescription": "Provisional prescription for unspecified symptoms.\nNote summary: STT could not understand the audio clearly....\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.\n",
+    "safety_flags": []
+  },
+  {
+    "emr_record_id": "EMR-1764239586",
+    "timestamp_utc": "2025-11-27T16:03:06.512553Z",
+    "patient_id": "P001",
+    "note_summary": "doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you",
+    "symptoms": [
+      "abdominal pain"
+    ],
+    "suggested_tests": [
+      "CBC",
+      "Liver Function Test (LFT)",
+      "Serum Amylase",
+      "Serum Lipase",
+      "Ultrasound Abdomen",
+      "Stool Routine and Occult Blood"
+    ],
+    "draft_prescription": "Provisional prescription for unspecified symptoms.\nNote summary: doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.\n",
+    "safety_flags": []
+  },
+  {
+    "emr_record_id": "EMR-1764239617",
+    "timestamp_utc": "2025-11-27T16:03:37.434383Z",
+    "patient_id": "P001",
+    "note_summary": "STT could not understand the audio clearly.",
+    "symptoms": [],
+    "suggested_tests": [],
+    "draft_prescription": "Provisional prescription for unspecified symptoms.\nNote summary: STT could not understand the audio clearly....\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.\n",
+    "safety_flags": []
+  },
+  {
+    "emr_record_id": "EMR-1764239622",
+    "timestamp_utc": "2025-11-27T16:03:42.888817Z",
+    "patient_id": "P001",
+    "note_summary": "doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you",
+    "symptoms": [
+      "abdominal pain"
+    ],
+    "suggested_tests": [
+      "CBC",
+      "Liver Function Test (LFT)",
+      "Serum Amylase",
+      "Serum Lipase",
+      "Ultrasound Abdomen",
+      "Stool Routine and Occult Blood"
+    ],
+    "draft_prescription": "Provisional prescription for unspecified symptoms.\nNote summary: doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.\n",
+    "safety_flags": []
+  },
+  {
+    "emr_record_id": "EMR-1764239629",
+    "timestamp_utc": "2025-11-27T16:03:49.232319Z",
+    "patient_id": "P001",
+    "note_summary": "doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you",
+    "symptoms": [
+      "abdominal pain"
+    ],
+    "suggested_tests": [
+      "CBC",
+      "Liver Function Test (LFT)",
+      "Serum Amylase",
+      "Serum Lipase",
+      "Ultrasound Abdomen",
+      "Stool Routine and Occult Blood"
+    ],
+    "draft_prescription": "Provisional prescription for unspecified symptoms.\nNote summary: doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.\n",
+    "safety_flags": []
+  },
+  {
+    "emr_record_id": "EMR-1764239634",
+    "timestamp_utc": "2025-11-27T16:03:54.546391Z",
+    "patient_id": "P001",
+    "note_summary": "doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you",
+    "symptoms": [
+      "abdominal pain"
+    ],
+    "suggested_tests": [
+      "CBC",
+      "Liver Function Test (LFT)",
+      "Serum Amylase",
+      "Serum Lipase",
+      "Ultrasound Abdomen",
+      "Stool Routine and Occult Blood"
+    ],
+    "draft_prescription": "Provisional prescription for unspecified symptoms.\nNote summary: doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.\n",
+    "safety_flags": []
+  },
+  {
+    "emr_record_id": "EMR-1764239641",
+    "timestamp_utc": "2025-11-27T16:04:01.233801Z",
+    "patient_id": "P001",
+    "note_summary": "doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you",
+    "symptoms": [
+      "abdominal pain"
+    ],
+    "suggested_tests": [
+      "CBC",
+      "Liver Function Test (LFT)",
+      "Serum Amylase",
+      "Serum Lipase",
+      "Ultrasound Abdomen",
+      "Stool Routine and Occult Blood"
+    ],
+    "draft_prescription": "Provisional prescription for unspecified symptoms.\nNote summary: doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.\n",
+    "safety_flags": []
+  },
+  {
+    "emr_record_id": "EMR_APPROVED_00015",
+    "record_type": "approved_consultation",
+    "patient_id": "P001",
+    "timestamp_utc": "2025-11-27T16:04:01.247380+00:00",
+    "note_summary": "STT could not understand the audio clearly.",
+    "symptoms": [],
+    "suggested_tests": [],
+    "draft_prescription": "Provisional prescription for unspecified symptoms.\nNote summary: STT could not understand the audio clearly....\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.",
+    "approved_by_doctor": true
+  },
+  {
+    "emr_record_id": "EMR-1764239647",
+    "timestamp_utc": "2025-11-27T16:04:07.750178Z",
+    "patient_id": "P001",
+    "note_summary": "doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you",
+    "symptoms": [
+      "abdominal pain"
+    ],
+    "suggested_tests": [
+      "CBC",
+      "Liver Function Test (LFT)",
+      "Serum Amylase",
+      "Serum Lipase",
+      "Ultrasound Abdomen",
+      "Stool Routine and Occult Blood"
+    ],
+    "draft_prescription": "Provisional prescription for unspecified symptoms.\nNote summary: doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.\n",
+    "safety_flags": []
+  },
+  {
+    "emr_record_id": "EMR_APPROVED_00017",
+    "record_type": "approved_consultation",
+    "patient_id": "P001",
+    "timestamp_utc": "2025-11-27T16:04:07.762785+00:00",
+    "note_summary": "doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you",
+    "symptoms": [
+      "abdominal pain"
+    ],
+    "suggested_tests": [
+      "CBC",
+      "Liver Function Test (LFT)",
+      "Serum Amylase",
+      "Serum Lipase",
+      "Ultrasound Abdomen",
+      "Stool Routine and Occult Blood"
+    ],
+    "draft_prescription": "Provisional prescription for unspecified symptoms.\nNote summary: doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.",
+    "approved_by_doctor": true
+  },
+  {
+    "emr_record_id": "EMR_APPROVED_00018",
+    "record_type": "approved_consultation",
+    "patient_id": "P001",
+    "timestamp_utc": "2025-11-27T16:04:07.766197+00:00",
+    "note_summary": "doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you",
+    "symptoms": [
+      "abdominal pain"
+    ],
+    "suggested_tests": [
+      "CBC",
+      "Liver Function Test (LFT)",
+      "Serum Amylase",
+      "Serum Lipase",
+      "Ultrasound Abdomen",
+      "Stool Routine and Occult Blood"
+    ],
+    "draft_prescription": "Provisional prescription for unspecified symptoms.\nNote summary: doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.",
+    "approved_by_doctor": true
+  },
+  {
+    "emr_record_id": "EMR_APPROVED_00019",
+    "record_type": "approved_consultation",
+    "patient_id": "P001",
+    "timestamp_utc": "2025-11-27T16:04:07.986347+00:00",
+    "note_summary": "doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you",
+    "symptoms": [
+      "abdominal pain"
+    ],
+    "suggested_tests": [
+      "CBC",
+      "Liver Function Test (LFT)",
+      "Serum Amylase",
+      "Serum Lipase",
+      "Ultrasound Abdomen",
+      "Stool Routine and Occult Blood"
+    ],
+    "draft_prescription": "Provisional prescription for unspecified symptoms.\nNote summary: doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.",
+    "approved_by_doctor": true
+  },
+  {
+    "emr_record_id": "EMR_APPROVED_00020",
+    "record_type": "approved_consultation",
+    "patient_id": "P001",
+    "timestamp_utc": "2025-11-27T16:04:08.193582+00:00",
+    "note_summary": "doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you",
+    "symptoms": [
+      "abdominal pain"
+    ],
+    "suggested_tests": [
+      "CBC",
+      "Liver Function Test (LFT)",
+      "Serum Amylase",
+      "Serum Lipase",
+      "Ultrasound Abdomen",
+      "Stool Routine and Occult Blood"
+    ],
+    "draft_prescription": "Provisional prescription for unspecified symptoms.\nNote summary: doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.",
+    "approved_by_doctor": true
+  },
+  {
+    "emr_record_id": "EMR_APPROVED_00021",
+    "record_type": "approved_consultation",
+    "patient_id": "P001",
+    "timestamp_utc": "2025-11-27T16:04:08.393794+00:00",
+    "note_summary": "doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you",
+    "symptoms": [
+      "abdominal pain"
+    ],
+    "suggested_tests": [
+      "CBC",
+      "Liver Function Test (LFT)",
+      "Serum Amylase",
+      "Serum Lipase",
+      "Ultrasound Abdomen",
+      "Stool Routine and Occult Blood"
+    ],
+    "draft_prescription": "Provisional prescription for unspecified symptoms.\nNote summary: doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.",
+    "approved_by_doctor": true
+  },
+  {
+    "emr_record_id": "EMR_APPROVED_00022",
+    "record_type": "approved_consultation",
+    "patient_id": "P001",
+    "timestamp_utc": "2025-11-27T16:04:08.607869+00:00",
+    "note_summary": "doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you",
+    "symptoms": [
+      "abdominal pain"
+    ],
+    "suggested_tests": [
+      "CBC",
+      "Liver Function Test (LFT)",
+      "Serum Amylase",
+      "Serum Lipase",
+      "Ultrasound Abdomen",
+      "Stool Routine and Occult Blood"
+    ],
+    "draft_prescription": "Provisional prescription for unspecified symptoms.\nNote summary: doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.",
+    "approved_by_doctor": true
+  },
+  {
+    "emr_record_id": "EMR_APPROVED_00023",
+    "record_type": "approved_consultation",
+    "patient_id": "P001",
+    "timestamp_utc": "2025-11-27T16:04:09.616118+00:00",
+    "note_summary": "doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you",
+    "symptoms": [
+      "abdominal pain"
+    ],
+    "suggested_tests": [
+      "CBC",
+      "Liver Function Test (LFT)",
+      "Serum Amylase",
+      "Serum Lipase",
+      "Ultrasound Abdomen",
+      "Stool Routine and Occult Blood"
+    ],
+    "draft_prescription": "Provisional prescription for unspecified symptoms.\nNote summary: doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.",
+    "approved_by_doctor": true
+  },
+  {
+    "emr_record_id": "EMR_APPROVED_00024",
+    "record_type": "approved_consultation",
+    "patient_id": "P001",
+    "timestamp_utc": "2025-11-27T16:04:09.808407+00:00",
+    "note_summary": "doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you",
+    "symptoms": [
+      "abdominal pain"
+    ],
+    "suggested_tests": [
+      "CBC",
+      "Liver Function Test (LFT)",
+      "Serum Amylase",
+      "Serum Lipase",
+      "Ultrasound Abdomen",
+      "Stool Routine and Occult Blood"
+    ],
+    "draft_prescription": "Provisional prescription for unspecified symptoms.\nNote summary: doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.",
+    "approved_by_doctor": true
+  },
+  {
+    "emr_record_id": "EMR_APPROVED_00025",
+    "record_type": "approved_consultation",
+    "patient_id": "P001",
+    "timestamp_utc": "2025-11-27T16:04:10.034367+00:00",
+    "note_summary": "doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you",
+    "symptoms": [
+      "abdominal pain"
+    ],
+    "suggested_tests": [
+      "CBC",
+      "Liver Function Test (LFT)",
+      "Serum Amylase",
+      "Serum Lipase",
+      "Ultrasound Abdomen",
+      "Stool Routine and Occult Blood"
+    ],
+    "draft_prescription": "Provisional prescription for unspecified symptoms.\nNote summary: doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.",
+    "approved_by_doctor": true
+  },
+  {
+    "emr_record_id": "EMR-1764240363",
+    "timestamp_utc": "2025-11-27T16:16:03.111426Z",
+    "patient_id": "P001",
+    "note_summary": "doctor I been feeling tired for the past week how long has it been almost three days you might have a viral infection how prescribed medicines and steam inhalation ok doctor will it get better soon yes usually within three to four days thank you doctor",
+    "symptoms": [],
+    "suggested_tests": [],
+    "draft_prescription": "Provisional prescription for unspecified symptoms.\nNote summary: doctor I been feeling tired for the past week how long has it been almost three days you might have a viral infection how prescribed medicines and steam inhalation ok doctor will it get better soon ye...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.\n",
+    "safety_flags": []
+  },
+  {
+    "emr_record_id": "EMR_APPROVED_00027",
+    "record_type": "approved_consultation",
+    "patient_id": "P001",
+    "timestamp_utc": "2025-11-27T16:16:05.969548+00:00",
+    "note_summary": "doctor I been feeling tired for the past week how long has it been almost three days you might have a viral infection how prescribed medicines and steam inhalation ok doctor will it get better soon yes usually within three to four days thank you doctor",
+    "symptoms": [],
+    "suggested_tests": [],
+    "draft_prescription": "Provisional prescription for unspecified symptoms.\nNote summary: doctor I been feeling tired for the past week how long has it been almost three days you might have a viral infection how prescribed medicines and steam inhalation ok doctor will it get better soon ye...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.",
+    "approved_by_doctor": true
+  },
+  {
+    "emr_record_id": "EMR_APPROVED_00028",
+    "record_type": "approved_consultation",
+    "patient_id": "P001",
+    "timestamp_utc": "2025-11-27T16:16:22.520836+00:00",
+    "note_summary": "doctor I been feeling tired for the past week how long has it been almost three days you might have a viral infection how prescribed medicines and steam inhalation ok doctor will it get better soon yes usually within three to four days thank you doctor",
+    "symptoms": [],
+    "suggested_tests": [],
+    "draft_prescription": "Provisional prescription for unspecified symptoms.\nNote summary: doctor I been feeling tired for the past week how long has it been almost three days you might have a viral infection how prescribed medicines and steam inhalation ok doctor will it get better soon ye...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.",
+    "approved_by_doctor": true
+  },
+  {
+    "emr_record_id": "EMR-1764241298",
+    "timestamp_utc": "2025-11-27T16:31:38.184668Z",
+    "patient_id": "P001",
+    "note_summary": "good morning doctor I've been feeling tired for the past week good morning do you have headache for fever just weakness and less appetite blood test don't worry we'll find the cause thank you doctor",
+    "symptoms": [
+      "fever",
+      "headache"
+    ],
+    "suggested_tests": [
+      "CBC with Differential",
+      "C-Reactive Protein (CRP)",
+      "ESR",
+      "Dengue NS1 / IgM",
+      "Malaria Smear / Rapid Test",
+      "Blood Culture",
+      "Urine Routine and Microscopy",
+      "Procalcitonin",
+      "MRI Brain (as indicated)",
+      "CT Brain (Non-contrast, if emergency)",
+      "CBC",
+      "Serum Electrolytes"
+    ],
+    "draft_prescription": "Provisional prescription for unspecified symptoms.\nNote summary: good morning doctor I've been feeling tired for the past week good morning do you have headache for fever just weakness and less appetite blood test don't worry we'll find the cause thank you doctor...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.\n",
+    "safety_flags": []
+  },
+  {
+    "emr_record_id": "EMR_APPROVED_00030",
+    "record_type": "approved_consultation",
+    "patient_id": "P001",
+    "timestamp_utc": "2025-11-27T16:31:47.164803+00:00",
+    "note_summary": "good morning doctor I've been feeling tired for the past week good morning do you have headache for fever just weakness and less appetite blood test don't worry we'll find the cause thank you doctor",
+    "symptoms": [
+      "fever",
+      "headache"
+    ],
+    "suggested_tests": [
+      "CBC with Differential",
+      "C-Reactive Protein (CRP)",
+      "ESR",
+      "Dengue NS1 / IgM",
+      "Malaria Smear / Rapid Test",
+      "Blood Culture",
+      "Urine Routine and Microscopy",
+      "Procalcitonin",
+      "MRI Brain (as indicated)",
+      "CT Brain (Non-contrast, if emergency)",
+      "CBC",
+      "Serum Electrolytes"
+    ],
+    "draft_prescription": "Provisional prescription for unspecified symptoms.\nNote summary: good morning doctor I've been feeling tired for the past week good morning do you have headache for fever just weakness and less appetite blood test don't worry we'll find the cause thank you doctor...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.",
+    "approved_by_doctor": true
+  },
+  {
+    "emr_record_id": "EMR-1764242940",
+    "timestamp_utc": "2025-11-27T16:59:00.110053Z",
+    "patient_id": "P017",
+    "note_summary": "good morning doctor I've been feeling tired for the past week good morning do you have headache for fever just weakness and less appetite blood test don't worry we'll find the cause thank you doctor",
+    "symptoms": [
+      "fever",
+      "headache"
+    ],
+    "suggested_tests": [
+      "CBC with Differential",
+      "C-Reactive Protein (CRP)",
+      "ESR",
+      "Dengue NS1 / IgM",
+      "Malaria Smear / Rapid Test",
+      "Blood Culture",
+      "Urine Routine and Microscopy",
+      "Procalcitonin",
+      "MRI Brain (as indicated)",
+      "CT Brain (Non-contrast, if emergency)",
+      "CBC",
+      "Serum Electrolytes"
+    ],
+    "draft_prescription": "Provisional prescription for unspecified symptoms.\nNote summary: good morning doctor I've been feeling tired for the past week good morning do you have headache for fever just weakness and less appetite blood test don't worry we'll find the cause thank you doctor...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.\n",
+    "safety_flags": []
+  },
+  {
+    "emr_record_id": "EMR_APPROVED_00032",
+    "record_type": "approved_consultation",
+    "patient_id": "P017",
+    "timestamp_utc": "2025-11-27T16:59:24.455934+00:00",
+    "note_summary": "good morning doctor I've been feeling tired for the past week good morning do you have headache for fever just weakness and less appetite blood test don't worry we'll find the cause thank you doctor",
+    "symptoms": [
+      "fever",
+      "headache"
+    ],
+    "suggested_tests": [
+      "CBC with Differential",
+      "C-Reactive Protein (CRP)",
+      "ESR",
+      "Dengue NS1 / IgM",
+      "Malaria Smear / Rapid Test",
+      "Blood Culture",
+      "Urine Routine and Microscopy",
+      "Procalcitonin",
+      "MRI Brain (as indicated)",
+      "CT Brain (Non-contrast, if emergency)",
+      "CBC",
+      "Serum Electrolytes"
+    ],
+    "draft_prescription": "Provisional prescription for unspecified symptoms.\nNote summary: good morning doctor I've been feeling tired for the past week good morning do you have headache for fever just weakness and less appetite blood test don't worry we'll find the cause thank you doctor...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.",
+    "approved_by_doctor": true
+  },
+  {
+    "emr_record_id": "EMR-1764243631",
+    "timestamp_utc": "2025-11-27T17:10:31.470851Z",
+    "patient_id": "P027",
+    "note_summary": "doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you",
+    "symptoms": [
+      "abdominal pain"
+    ],
+    "suggested_tests": [
+      "CBC",
+      "Liver Function Test (LFT)",
+      "Serum Amylase",
+      "Serum Lipase",
+      "Ultrasound Abdomen",
+      "Stool Routine and Occult Blood"
+    ],
+    "draft_prescription": "Provisional prescription for unspecified symptoms.\nNote summary: doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.\n",
+    "safety_flags": []
+  },
+  {
+    "emr_record_id": "EMR_APPROVED_00034",
+    "record_type": "approved_consultation",
+    "patient_id": "P027",
+    "timestamp_utc": "2025-11-27T17:10:41.996534+00:00",
+    "note_summary": "doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you",
+    "symptoms": [
+      "abdominal pain"
+    ],
+    "suggested_tests": [
+      "CBC",
+      "Liver Function Test (LFT)",
+      "Serum Amylase",
+      "Serum Lipase",
+      "Ultrasound Abdomen",
+      "Stool Routine and Occult Blood"
+    ],
+    "draft_prescription": "Provisional prescription for unspecified symptoms.\nNote summary: doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.",
+    "approved_by_doctor": true
+  },
+  {
+    "emr_record_id": "EMR-1764289378",
+    "timestamp_utc": "2025-11-28T05:52:58.892304Z",
+    "patient_id": "P002",
+    "note_summary": "I have severe cough fever And I'm not able to talk properly I have sore throat please give me some effort",
+    "symptoms": [
+      "fever",
+      "cough"
+    ],
+    "suggested_tests": [
+      "CBC with Differential",
+      "C-Reactive Protein (CRP)",
+      "ESR",
+      "Dengue NS1 / IgM",
+      "Malaria Smear / Rapid Test",
+      "Blood Culture",
+      "Urine Routine and Microscopy",
+      "Procalcitonin",
+      "Chest X-Ray (PA view)",
+      "CRP",
+      "Sputum Culture and Sensitivity",
+      "COVID-19 RT-PCR",
+      "Sputum AFB (for Tuberculosis)"
+    ],
+    "draft_prescription": "Provisional prescription for unspecified symptoms.\nNote summary: I have severe cough fever And I'm not able to talk properly I have sore throat please give me some effort...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.\n",
+    "safety_flags": []
+  },
+  {
+    "emr_record_id": "EMR_APPROVED_00036",
+    "record_type": "approved_consultation",
+    "patient_id": "P002",
+    "timestamp_utc": "2025-11-28T05:53:06.302639+00:00",
+    "note_summary": "I have severe cough fever And I'm not able to talk properly I have sore throat please give me some effort",
+    "symptoms": [
+      "fever",
+      "cough"
+    ],
+    "suggested_tests": [
+      "CBC with Differential",
+      "C-Reactive Protein (CRP)",
+      "ESR",
+      "Dengue NS1 / IgM",
+      "Malaria Smear / Rapid Test",
+      "Blood Culture",
+      "Urine Routine and Microscopy",
+      "Procalcitonin",
+      "Chest X-Ray (PA view)",
+      "CRP",
+      "Sputum Culture and Sensitivity",
+      "COVID-19 RT-PCR",
+      "Sputum AFB (for Tuberculosis)"
+    ],
+    "draft_prescription": "Provisional prescription for unspecified symptoms.\nNote summary: I have severe cough fever And I'm not able to talk properly I have sore throat please give me some effort...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.",
+    "approved_by_doctor": true
+  },
+  {
+    "emr_record_id": "EMR-1764313460",
+    "timestamp_utc": "2025-11-28T12:34:20.762061Z",
+    "patient_id": "P001",
+    "note_summary": "doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you",
+    "symptoms": [
+      "abdominal pain"
+    ],
+    "suggested_tests": [
+      "CBC",
+      "Liver Function Test (LFT)",
+      "Serum Amylase",
+      "Serum Lipase",
+      "Ultrasound Abdomen",
+      "Stool Routine and Occult Blood"
+    ],
+    "draft_prescription": "Provisional prescription for unspecified symptoms.\nNote summary: doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.\n",
+    "safety_flags": []
+  },
+  {
+    "emr_record_id": "EMR-1764313486",
+    "timestamp_utc": "2025-11-28T12:34:46.466808Z",
+    "record_type": "approved_consultation",
+    "patient_id": "P001",
+    "note_summary": "doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you",
+    "symptoms": [
+      "abdominal pain"
+    ],
+    "suggested_tests": [
+      "Stool Routine and Occult Blood"
+    ],
+    "draft_prescription": "Provisional prescription for unspecified symptoms.\nNote summary: doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.",
+    "approved_by_doctor": true
+  },
+  {
+    "emr_record_id": "EMR-1764313785",
+    "timestamp_utc": "2025-11-28T12:39:45.910039Z",
+    "patient_id": "P001",
+    "note_summary": "doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you",
+    "symptoms": [
+      "abdominal pain"
+    ],
+    "suggested_tests": [
+      "CBC",
+      "Liver Function Test (LFT)",
+      "Serum Amylase",
+      "Serum Lipase",
+      "Ultrasound Abdomen",
+      "Stool Routine and Occult Blood"
+    ],
+    "draft_prescription": "Provisional prescription for unspecified symptoms.\nNote summary: doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.\n",
+    "safety_flags": []
+  },
+  {
+    "emr_record_id": "EMR-1764313814",
+    "timestamp_utc": "2025-11-28T12:40:14.355378Z",
+    "record_type": "approved_consultation",
+    "patient_id": "P001",
+    "note_summary": "doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you",
+    "symptoms": [
+      "abdominal pain"
+    ],
+    "suggested_tests": [
+      "Stool Routine and Occult Blood"
+    ],
+    "draft_prescription": "Provisional prescription for unspecified symptoms.\nNote summary: doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.",
+    "approved_by_doctor": true
+  },
+  {
+    "emr_record_id": "EMR-1764313956",
+    "timestamp_utc": "2025-11-28T12:42:36.925358Z",
+    "patient_id": "P001",
+    "note_summary": "doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you Hello Hello I have stomach pain",
+    "symptoms": [
+      "abdominal pain"
+    ],
+    "suggested_tests": [
+      "CBC",
+      "Liver Function Test (LFT)",
+      "Serum Amylase",
+      "Serum Lipase",
+      "Ultrasound Abdomen",
+      "Stool Routine and Occult Blood"
+    ],
+    "draft_prescription": "Provisional prescription for unspecified symptoms.\nNote summary: doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you Hello Hello I have ...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.\n",
+    "safety_flags": []
+  },
+  {
+    "emr_record_id": "EMR-1764313975",
+    "timestamp_utc": "2025-11-28T12:42:55.814928Z",
+    "record_type": "approved_consultation",
+    "patient_id": "P001",
+    "note_summary": "doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you Hello Hello I have stomach pain",
+    "symptoms": [
+      "abdominal pain"
+    ],
+    "suggested_tests": [
+      "Serum Amylase",
+      "Serum Lipase",
+      "Ultrasound Abdomen",
+      "Stool Routine and Occult Blood"
+    ],
+    "draft_prescription": "Provisional prescription for unspecified symptoms.\nNote summary: doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you Hello Hello I have ...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.",
+    "approved_by_doctor": true
+  },
+  {
+    "emr_record_id": "EMR-1764313984",
+    "timestamp_utc": "2025-11-28T12:43:04.513220Z",
+    "record_type": "approved_consultation",
+    "patient_id": "P001",
+    "note_summary": "doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you Hello Hello I have stomach pain",
+    "symptoms": [
+      "abdominal pain"
+    ],
+    "suggested_tests": [
+      "Serum Amylase",
+      "Serum Lipase",
+      "Ultrasound Abdomen",
+      "Stool Routine and Occult Blood"
+    ],
+    "draft_prescription": "Provisional prescription for unspecified symptoms.\nNote summary: doctor I am having stomach pain after eating is it shop for mild pain comfortable avoid spicy food for a few days I'll give you medication if pain persists come back sure thank you Hello Hello I have ...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.",
+    "approved_by_doctor": true
+  },
+  {
+    "emr_record_id": "EMR-1764368547",
+    "timestamp_utc": "2025-11-29T03:52:27.927225Z",
+    "patient_id": "P006",
+    "note_summary": "good morning doctor I've been feeling tired for the past week good morning do you have headache for fever just weakness and less appetite blood test don't worry we'll find the cause thank you doctor",
+    "symptoms": [
+      "fever",
+      "headache"
+    ],
+    "suggested_tests": [
+      "CBC with Differential",
+      "C-Reactive Protein (CRP)",
+      "ESR",
+      "Dengue NS1 / IgM",
+      "Malaria Smear / Rapid Test",
+      "Blood Culture",
+      "Urine Routine and Microscopy",
+      "Procalcitonin",
+      "MRI Brain (as indicated)",
+      "CT Brain (Non-contrast, if emergency)",
+      "CBC",
+      "Serum Electrolytes"
+    ],
+    "draft_prescription": "Provisional prescription for unspecified symptoms.\nNote summary: good morning doctor I've been feeling tired for the past week good morning do you have headache for fever just weakness and less appetite blood test don't worry we'll find the cause thank you doctor...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.\n",
+    "safety_flags": []
+  },
+  {
+    "emr_record_id": "EMR-1764368569",
+    "timestamp_utc": "2025-11-29T03:52:49.465558Z",
+    "record_type": "approved_consultation",
+    "patient_id": "P006",
+    "note_summary": "good morning doctor I've been feeling tired for the past week good morning do you have headache for fever just weakness and less appetite blood test don't worry we'll find the cause thank you doctor",
+    "symptoms": [
+      "fever",
+      "headache"
+    ],
+    "suggested_tests": [
+      "CBC with Differential",
+      "C-Reactive Protein (CRP)",
+      "ESR",
+      "Dengue NS1 / IgM",
+      "Malaria Smear / Rapid Test",
+      "Blood Culture",
+      "Urine Routine and Microscopy",
+      "Procalcitonin",
+      "MRI Brain (as indicated)",
+      "CT Brain (Non-contrast, if emergency)",
+      "CBC",
+      "Serum Electrolytes"
+    ],
+    "draft_prescription": "Provisional prescription for unspecified symptoms.\nNote summary: good morning doctor I've been feeling tired for the past week good morning do you have headache for fever just weakness and less appetite blood test don't worry we'll find the cause thank you doctor...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.",
+    "approved_by_doctor": true
+  },
+  {
+    "emr_record_id": "EMR-1764388465",
+    "timestamp_utc": "2025-11-29T09:24:25.941155Z",
+    "patient_id": "P002",
+    "note_summary": "Hi doctor I have severe fever cold cough and everything I have sore throat prescribed me some medicine",
+    "symptoms": [
+      "fever",
+      "cough"
+    ],
+    "suggested_tests": [
+      "CBC with Differential",
+      "C-Reactive Protein (CRP)",
+      "ESR",
+      "Dengue NS1 / IgM",
+      "Malaria Smear / Rapid Test",
+      "Blood Culture",
+      "Urine Routine and Microscopy",
+      "Procalcitonin",
+      "Chest X-Ray (PA view)",
+      "CRP",
+      "Sputum Culture and Sensitivity",
+      "COVID-19 RT-PCR",
+      "Sputum AFB (for Tuberculosis)"
+    ],
+    "draft_prescription": "Provisional prescription for unspecified symptoms.\nNote summary: Hi doctor I have severe fever cold cough and everything I have sore throat prescribed me some medicine...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.\n",
+    "safety_flags": []
+  },
+  {
+    "emr_record_id": "EMR-1764388517",
+    "timestamp_utc": "2025-11-29T09:25:17.698257Z",
+    "record_type": "approved_consultation",
+    "patient_id": "P002",
+    "note_summary": "Hi doctor I have severe fever cold cough and everything I have sore throat prescribed me some medicine",
+    "symptoms": [
+      "fever",
+      "cough"
+    ],
+    "suggested_tests": [
+      "CBC with Differential",
+      "C-Reactive Protein (CRP)",
+      "ESR",
+      "Dengue NS1 / IgM",
+      "Malaria Smear / Rapid Test",
+      "Blood Culture",
+      "Urine Routine and Microscopy",
+      "Procalcitonin",
+      "Chest X-Ray (PA view)",
+      "CRP",
+      "Sputum Culture and Sensitivity",
+      "COVID-19 RT-PCR",
+      "Sputum AFB (for Tuberculosis)"
+    ],
+    "draft_prescription": "Provisional prescription for unspecified symptoms.\nNote summary: Hi doctor I have severe fever cold cough and everything I have sore throat prescribed me some medicine...\n\nMedications:\n- (To be decided by physician)\n\nInstructions:\n- Follow up if symptoms worsen.",
+    "approved_by_doctor": true
+  }
+]
